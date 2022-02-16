@@ -9,3 +9,4 @@ The essence of the game: choose an icon that differs in color. Initially, a 4x4 
 For this implementation, I put the cells in a mutableList (because the field changes size), and applied the shuffled() function to the list, 
 which shuffles the list objects in random order. And changed the color of the first object.
 To unlock the second level, you need to go through 10 rounds, but I did not register the second level. Also, the time that was given to pass the first level, I also unfortunately did not register
+![GameMainMenu](https://user-images.githubusercontent.com/81512716/154320177-36701626-0f77-44e9-ad0c-9c8104e93f94.jpg)
